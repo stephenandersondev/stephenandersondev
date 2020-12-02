@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on **a Rails/React capstone project**
+- 🔭 I’m currently working on **a pathfinding algorithm visualizer**
 
 - 🌱 I’m currently learning **advanced Rails and React**
 
