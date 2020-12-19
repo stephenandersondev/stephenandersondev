@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **stephenandersondev@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://docs.google.com/document/d/1ElVlQMTJRjemeVBLv9YkJzXE7YnEJNcQ15STssGQDaI/edit?usp=sharing)
-
 - ⚡ Fun fact **I used to be in automation engineering**
 
 <h3 align="left">Connect with me:</h3>
