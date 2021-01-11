@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center" style="margin-bottom: 15px;">A passionate Full-Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on **a pathfinding algorithm visualizer**
+- 🔭 I’m currently working on **Geographic Information System (GIS)**
 
 - 🌱 I’m currently learning **advanced Rails and React**
 
