@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center" style="margin-bottom: 15px;">A passionate Full-Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on **Geographic Information System (GIS)**
+- 🔭 I’m currently working on a **Geographic Information System (GIS)**
 
-- 🌱 I’m currently learning **advanced Rails and React**
+- 🌱 I’m currently learning **advanced React**
 
-- 👯 I’m looking to collaborate on **Rails projects**
+- 👯 I’m looking to collaborate on **React projects**
 
 - 🤝 I’m looking for help with **learning Node.js**
 
