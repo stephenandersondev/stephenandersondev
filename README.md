@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Geographic Information System (GIS)**
 
-- 🌱 I’m currently learning **advanced React**
+- 🌱 I’m currently learning **advanced React and Redux**
 
 - 👯 I’m looking to collaborate on **React projects**
 
