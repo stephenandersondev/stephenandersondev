@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **advanced Rails and React**
 
-- 👯 I’m looking to collaborate on **Advanced Rails projects**
+- 👯 I’m looking to collaborate on **advanced Rails projects**
 
 - 🤝 I’m looking for help with **learning Node.js**
 
