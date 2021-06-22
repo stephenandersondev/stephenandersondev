@@ -13,7 +13,7 @@
 
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/stephenandersondev/)
 
-- 📫 Reach me at **stephenandersondev@gmail.com**
+- 📫 Reach me at stephenandersondev@gmail.com
 
 - ⚡ Fun fact: **I used to be in automation engineering**
 
