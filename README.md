@@ -1,3 +1,5 @@
+<img src="https://github.com/stephenandersondev/stephenandersondev/blob/master/1_aVj_ZIk3ZUXY5rAPII-Nkg.png?raw=true" height="100%%" width="100%" style="margin-bottom: 30px;" />
+
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center" style="margin-bottom: 15px;">A passionate Full-Stack Software Engineer</h3>
 
