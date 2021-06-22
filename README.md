@@ -1,4 +1,4 @@
-<img src="https://github.com/stephenandersondev/stephenandersondev/blob/master/1_PFEk9y9K_k5Ql58pC567-A.png?raw=true" height="250px" width="auto" style="display: block; margin: 0 auto 30px auto; border-radius: 8px;" />
+<div align="center"><img src="https://github.com/stephenandersondev/stephenandersondev/blob/master/1_PFEk9y9K_k5Ql58pC567-A.png?raw=true" alt="react-rails-logos" height="300px" width="auto" /></div>
 
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center" style="margin-bottom: 15px;">A passionate Full-Stack Software Engineer</h3>
