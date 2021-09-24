@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center" style="margin-bottom: 15px;">A passionate Full-Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on a **Geographic Information System (GIS)**
+- 🔭 I’m currently working on a **Geographic Information System (GIS)** and **Mapping Platform**
 
 - 🌱 I’m currently learning **advanced Rails and React**
 
-- 👯 I’m looking to collaborate on **advanced Rails projects**
+- 👯 I’m looking to collaborate on **advanced React projects**
 
-- 🤝 I’m looking for help with **learning Node.js**
+- 🤝 I’m looking for help with **learning Node**
 
 - 👨‍💻 All of my projects are available at [stephenanderson.dev](https://stephenanderson.dev/)
 
