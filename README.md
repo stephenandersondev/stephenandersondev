@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **advanced Rails and React**
 
-- 👯 I’m looking to collaborate on **advanced Rails, React, and Node projects**
-
-- 🤝 I’m looking for help with **learning advanced Node**
+- 👯 I’m looking to collaborate on **advanced React projects**
 
 - 👨‍💻 All of my projects are available at [stephenanderson.dev](https://stephenanderson.dev/)
 
