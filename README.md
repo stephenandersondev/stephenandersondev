@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
-<h3 align="center" style="margin-bottom: 15px;">A passionate Full-Stack Software Engineer who focuses on large-scale Ruby on Rails Applications</h3>
+<h3 align="center" style="margin-bottom: 15px;">An experienced Full-Stack Ruby on Rails Developer</h3>
 
 - 🔭 I’m currently working on a **large-scale Shop Management System**
 
-- 🌱 I’m currently learning advanced **Rails** and **backend architecture**
+- 🌱 I’m currently learning advanced **backend architecture**
 
 - 👯 I’m looking to collaborate on **advanced Rails projects**
 
