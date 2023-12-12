@@ -11,8 +11,6 @@
 
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/stephenandersondev/)
 
-- 📫 Reach me at stephenandersondev@gmail.com
-
 - ⚡ Fun fact: **I used to work in automation engineering**
 
 <h3 align="left">Languages and Tools:</h3>
