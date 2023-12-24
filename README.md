@@ -11,8 +11,6 @@
 
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/stephenandersondev/)
 
-- ⚡ Fun fact: **I used to work in automation engineering**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.ruby-lang.org/en/" target="_blank">
