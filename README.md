@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **advanced Rails projects**
 
-- 👨‍💻 Learn more about me at [stephenanderson.dev](https://stephenanderson.dev/)
-
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/stephenandersondev/)
 
 <h3 align="left">Languages and Tools:</h3>
