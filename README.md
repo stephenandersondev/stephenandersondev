@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center" style="margin-bottom: 15px;">An experienced Ruby on Rails Developer</h3>
 
-- 🔧 I’m currently working on a **large-scale shop management system** as a Senior Software Engineer at [Shop-Ware](https://shop-ware.com/)
+- 🔧 I’m currently working on a **large-scale shop management system** as a Senior Software Developer at [Shop-Ware](https://shop-ware.com/)
 
 - 📖 I’m currently learning **advanced backend architecture**
 
